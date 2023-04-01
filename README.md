@@ -4,5 +4,5 @@ Given teams , toss winner and toss decision as inputs, ML  model will predict th
 
 USER LOGIN DETAILS:
 
-USERNAME: KARTHICK_NG or SUNDHAR_SIR
+USERNAME: KARTHICK_NG (or) SUNDHAR_SIR & 
 PASSWORD: 1234
